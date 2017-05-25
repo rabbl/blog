@@ -5,8 +5,8 @@ h4 small
     color: #888;
 }
 
-.mainContent, footer.container {
-    max-width: 900px;
+.mainContent, footer.container, .navBarContainer {
+    max-width: 1200px;
 }
 
 footer.container {
